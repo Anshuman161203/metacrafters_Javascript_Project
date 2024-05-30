@@ -52,6 +52,5 @@ function getTotalSupply() {
 mintNFT("Anshuman","Indian",21,"Male")
 mintNFT("Astitva","Indian",20,"Male")
 mintNFT("Akansha","Indian",21,"Female")
-mintNFT("Aditi","Indian",17,"Female")
 listNFTs()
 getTotalSupply()
