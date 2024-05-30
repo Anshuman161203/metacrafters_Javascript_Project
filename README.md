@@ -13,4 +13,7 @@ This report contains project assessment code for the javascript course under met
 # Run this file
 
 - on local/Gitpod
-- 
+- run node JS PROOF: Beginner Course.js
+
+# Project By
+- Anshuman Roshan
